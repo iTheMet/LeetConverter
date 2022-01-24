@@ -131,7 +131,7 @@ namespace LeetConverter
 
                 case 'э': leetOutString += "-)"; break;
 
-                case 'ю': leetOutString += "00"; break;
+                case 'ю': leetOutString += "|0"; break;
 
                 case 'я': leetOutString += "9|"; break;
 
