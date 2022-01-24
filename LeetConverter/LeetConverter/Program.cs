@@ -21,6 +21,7 @@ namespace LeetConverter
                 bufferOut = Primer.TranslateToLeet(bufferOut, slicedBuffer[index]);
             }
 
+            Clipboard.Clear();
             Clipboard.SetText(bufferOut);
 
             /*Console.WriteLine($"текст: {bufferOut}");
