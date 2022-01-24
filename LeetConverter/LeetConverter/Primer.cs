@@ -61,7 +61,7 @@ namespace LeetConverter
 
                 case 'w': leetOutString += "vv"; break;
 
-                case 'x': leetOutString += '%'; break;
+                case 'x': leetOutString += "}{"; break;
 
                 case 'y': leetOutString += 'Y'; break;
 
@@ -113,7 +113,7 @@ namespace LeetConverter
 
                 case 'ф': leetOutString += "qp"; break;
 
-                case 'х': leetOutString += 'Х'; break;
+                case 'х': leetOutString += "}{"; break;
 
                 case 'ц': leetOutString += "L|"; break;
 

@@ -1,0 +1,7 @@
+R:\Документы\GIT\LeetConverter\LeetConverter\LeetConverter\bin\Release\LeetConverter.exe.config
+R:\Документы\GIT\LeetConverter\LeetConverter\LeetConverter\bin\Release\LeetConverter.exe
+R:\Документы\GIT\LeetConverter\LeetConverter\LeetConverter\bin\Release\LeetConverter.pdb
+R:\Документы\GIT\LeetConverter\LeetConverter\LeetConverter\obj\Release\LeetConverter.csproj.AssemblyReference.cache
+R:\Документы\GIT\LeetConverter\LeetConverter\LeetConverter\obj\Release\LeetConverter.csproj.CoreCompileInputs.cache
+R:\Документы\GIT\LeetConverter\LeetConverter\LeetConverter\obj\Release\LeetConverter.exe
+R:\Документы\GIT\LeetConverter\LeetConverter\LeetConverter\obj\Release\LeetConverter.pdb
